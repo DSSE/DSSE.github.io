@@ -94,6 +94,86 @@ Former students of his reearch group have obtained Ph.D. position at Imperial Co
 </div>
 {% endif %}
 
+
+
+<!-- PhD Students  -->
+
+<h2 style="font-family: 'Roboto', sans-serif; font-weight: 500; font-size: 32px;">PhD Students</h2>
+<br>
+
+{% assign number_printed = 0 %}
+{% for member in site.data.phd %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/group-members/phd/{{ member.photo }}"  width="128px" height="128px" style="float: left" />
+  <h4><a href="{{ member.homepage }}" target="_blank">{{ member.name }}</a></h4>
+  <i>{{ member.current_position }} </i> <br>
+  <i>{{ member.current_organization }} </i> <br>
+  <i>email: {{ member.email }}</i>
+  <ul style="overflow: hidden">
+
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  {% endif %}
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+
+
+
+
+
+
+<!-- PhD Students -->
+
+
+<!-- Alumni -->
 <h2 style="font-family: 'Roboto', sans-serif; font-weight: 500; font-size: 32px;">Alumni</h2>
 <br>
 
@@ -159,6 +239,10 @@ Former students of his reearch group have obtained Ph.D. position at Imperial Co
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+<!-- Alumni -->
+
+
 
 
 ### Administrative Support

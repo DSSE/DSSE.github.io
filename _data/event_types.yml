@@ -1,3 +1,6 @@
 # 1
 - broad_event_name: Workshop
   type_id: workshop
+
+- broad_event_name: Seminar
+  type_id: seminar
