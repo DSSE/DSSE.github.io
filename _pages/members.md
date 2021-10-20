@@ -111,7 +111,7 @@ Former students of his reearch group have obtained Ph.D. position at Imperial Co
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/group-members/phd/{{ member.photo }}" class="img-responsive" width="128px" height="128px" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/group-members/phd/{{ member.photo }}"  width="128px" height="128px" style="float: left" />
   <h4><a href="{{ member.homepage }}" target="_blank">{{ member.name }}</a></h4>
   <i>{{ member.current_position }} </i> <br>
   <i>{{ member.current_organization }} </i> <br>

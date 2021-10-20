@@ -2,7 +2,7 @@
 layout: posts
 title: Challenges and Way outs of Sustainable Economic Growth through Fintech Ecosystem in Bangladesh
 subtitle: A Focused Group Discussion on Sustainable Economic Growth through Fintech Ecosystem in Bangladesh
-author: "Keynote presentation: Khaled Mahmud, Associate Professor, IBA, University of Dhaka"
+author: "Keynote speaker: Khaled Mahmud, Associate Professor, IBA, University of Dhaka | PhD Student & DSSE member, IIT, University of Dhaka"
 cover-img: /images/events/fintech-focus-group-2021.jpeg
 thumbnail-img: /images/events/fintech-focus-group-2021.jpeg
 share-img: /images/events/fintech-focus-group-2021.jpeg
@@ -45,7 +45,7 @@ industry and how fintech can ensure sustainable economic growth.
 *  M Sabbir Hussain, DMD and Chief Operating Officer, BRAC Bank Limited
 *  Makam - E- Mahmud Billah, Head of Retail Products and Segments, Standard Chartered Bank
 
-**Keynote presentation:** Khaled Mahmud, Associate Professor, IBA, University of Dhaka
+**Keynote speaker:** Khaled Mahmud, Associate Professor, IBA, University of Dhaka \| PhD Student & DSSE member, IIT, University of Dhaka
 
 **Moderator:** Prof. Dr. Kazi Muheymin-Us-Sakib, Professor, IIT, University of Dhaka
 
