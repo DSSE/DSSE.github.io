@@ -337,6 +337,15 @@
   number_educ: 1
   education1: BSc University of Dhaka  
 
+- name: Syeda Tasnim Fabiha 
+  photo: dummy_female_dp.png
+  current_position: Senior Software Engineer 
+  current_organization: Brain Station 23 Limited
+  email: 
+  homepage: https://www.linkedin.com/in/syeda-tasnim-fabiha/
+  number_educ: 1
+  education1: BSc University of Dhaka 
+
 - name: Moumita Asad 
   photo: moumita-asad.jpeg
   current_position: Lecturer
