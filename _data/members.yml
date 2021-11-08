@@ -341,7 +341,7 @@
   photo: dummy_female_dp.png
   current_position: Senior Software Engineer 
   current_organization: Brain Station 23 Limited
-  email: 
+  email: tasnimfabiha022@gmail.com
   homepage: https://www.linkedin.com/in/syeda-tasnim-fabiha/
   number_educ: 1
   education1: BSc University of Dhaka 
@@ -363,6 +363,17 @@
   number_educ: 2
   education1: MSc, IIT, University of Dhaka
   education2: BSc, IIT, University of Dhaka 
+
+#
+#- name: Rafed Muhammad Yasir 
+#  photo: 
+#  current_position: Lecturer
+#  current_organization: Independent University, Bangladesh (IUB)
+#  email: bsse0731@iit.du.ac.bd
+#  homepage: https://scholar.google.com/citations?user=u-KPXtIAAAAJ&hl=en&fbclid=IwAR1ozJsOtMhAR8k-0aCgzxDNm04qi4kh82uZvBuAgYdmszQfSIgGAcjf_ug
+#  number_educ: 2
+#  education1: MSc University of Dhaka
+#  education2: BSc University of Dhaka
 
 - name: Toukir Ahammed 
   photo: toukir-ahammed.jpeg
