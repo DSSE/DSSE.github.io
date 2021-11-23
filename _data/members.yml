@@ -398,7 +398,9 @@
   current_organization: IIT, University of Dhaka
   email: bsse0926@iit.du.ac.bd
   homepage: ...
-  number_educ: 0
+  number_educ: 1
+  education1: BSc University of Dhaka
+
 
 - name: Mridha Md. Nafis Fuad
   photo: nafis-fuad.jpeg
@@ -406,7 +408,9 @@
   current_organization: IIT, University of Dhaka
   email: bsse0920@iit.du.ac.bd
   homepage: ...
-  number_educ: 0
+  number_educ: 1
+  education1: BSc University of Dhaka
+
 
 - name: Noshin Tahsin
   photo: noshin-tahsin-saaj.jpg
@@ -414,7 +418,9 @@
   current_organization: IIT, University of Dhaka
   email: bsse0914@iit.du.ac.bd
   homepage: ...
-  number_educ: 0
+  number_educ: 1
+  education1: BSc University of Dhaka
+
 
 - name: Miran Al Mehrab
   photo: miran-al-mehrab.jpeg
@@ -422,7 +428,9 @@
   current_organization: IIT, University of Dhaka 
   email: bsse0931@iit.du.ac.bd
   homepage: ...
-  number_educ: 0
+  number_educ: 1
+  education1: BSc University of Dhaka
+
      
 
 #- name: This could be You!!

@@ -1,0 +1,20 @@
+- name: Ishrat Fatema
+  photo: dummy_female_dp.png
+  #current_position: PhD Student
+  #current_organization: IIT, University of Dhaka
+  #email: iit.du.ac.bd
+  #homepage: "https://scholar.google.com/citations?user=g1l8PKIAAAAJ&hl=en"
+  #number_educ: 2
+  #education1: MSc University of Dhaka   
+  #education2: BSc University of Dhaka
+
+- name: A. K. M. Aslamuddin
+  photo: dummy_male_dp.png
+  #current_position: PhD Student
+  #current_organization: IIT, University of Dhaka
+  #email: ...
+  #homepage: "https://scholar.google.com/citations?user=ZSbji1sAAAAJ&hl=en"
+  #number_educ: 3
+  #education1: BSc. Engineering (Computer Science and Engineering), Bangladesh University of Engineering and Technology
+  #education2: MBA, Institute of Business Administration, University of Dhaka
+  #education3: "MBA, Institute: Bentley University, Massachusetts, USA"
