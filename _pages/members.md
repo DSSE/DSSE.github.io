@@ -166,9 +166,9 @@ Former students of his reearch group have obtained Ph.D. position at Imperial Co
 
 <!-- PhD Students -->
 
-<!-- PhD Students  -->
+<!-- M.Phil Students  -->
 
-<h2 style="font-family: 'Roboto', sans-serif; font-weight: 500; font-size: 32px;">PhD Students</h2>
+<h2 style="font-family: 'Roboto', sans-serif; font-weight: 500; font-size: 32px;">M.Phil Students</h2>
 <br>
 
 {% assign number_printed = 0 %}
@@ -234,7 +234,7 @@ Former students of his reearch group have obtained Ph.D. position at Imperial Co
 </div>
 {% endif %}
 
-<!-- PhD Students -->
+<!-- M.Phil Students -->
 
 <!-- Alumni -->
 <h2 style="font-family: 'Roboto', sans-serif; font-weight: 500; font-size: 32px;">Alumni</h2>
