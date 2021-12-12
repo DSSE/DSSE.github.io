@@ -1,12 +1,14 @@
 - name: Ishrat Fatema
-  photo: dummy_female_dp.png
-  current_position: ...
-  current_organization: ...
-  email: iit.du.ac.bd
+  photo: israt-fatema.png
+  current_position: PhD Student
+  current_organization: University of Technology Sydney
+  email: israt.fatema@student.uts.edu.au
   homepage: ...
-  number_educ: 1
+  number_educ: 3
   education1: M.Phil, IIT, University of Dhaka
- 
+  education2: MSc, University of Technology Sydney
+  education3: BSc - University of Western Sydney
+
 
 - name: A. K. M. Aslamuddin
   photo: dummy_male_dp.png
