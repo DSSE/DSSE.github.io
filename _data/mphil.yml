@@ -7,14 +7,18 @@
   number_educ: 3
   education1: M.Phil, IIT, University of Dhaka
   education2: MSc, University of Technology Sydney
-  education3: BSc - University of Western Sydney
+  education3: BSc, University of Western Sydney
 
 
 - name: A. K. M. Aslamuddin
   photo: dummy_male_dp.png
-  current_position: ...
-  current_organization: ...
-  email: ...
+  current_position: Assistant Professor
+  current_organization: Department of Information and Communication Engineering, Noakhali Science and Technology University
+  email: mhh003@iit.du.ac.bd
   homepage: ...
-  number_educ: 1
+  number_educ: 3
   education1: M.Phil, IIT, University of Dhaka
+  education2: MSc, Jahangirnagar University
+  education3: BSc, Patuakhali Science and Technology University
+
+
