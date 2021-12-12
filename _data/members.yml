@@ -374,6 +374,16 @@
   education1: MSc University of Dhaka
   education2: BSc University of Dhaka
 
+- name: Fazle Rabbi
+  photo: razle-rabbi.jpeg
+  current_position: Software Engineer
+  current_organization: Samsung R&D Institute Bangladesh
+  email: bsse0725@iit.du.ac.bd
+  homepage: https://scholar.google.com/citations?user=zVDBaDYAAAAJ&hl=en&oi=sra
+  number_educ: 2
+  education1: MSc University of Dhaka
+  education2: BSc University of Dhaka
+
 - name: Toukir Ahammed 
   photo: toukir-ahammed.jpeg
   current_position: MSSE Student
