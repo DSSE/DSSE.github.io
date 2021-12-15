@@ -2,8 +2,8 @@ $(document).ready(function () {
 
     // get recent five years
     const present = new Date().getFullYear();
-    const older = present - 10;
-    const recent_years = [present, present - 1, present - 2, present - 3, present - 4, present-5, present-6, present-7,present-8, present-9];
+    const older = present - 5;
+    const recent_years = [present, present - 1, present - 2, present - 3, present - 4, present-5];
 
     // add recent five years filter button dynamically
     $('#filterEventByYear').append('<button type="button" class="btn  filterBtn selected" id="all">All</button>');

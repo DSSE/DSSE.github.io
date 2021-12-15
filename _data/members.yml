@@ -51,8 +51,8 @@
 
 - name: Md. Saeed Siddik
   photo: md-saeed-siddik.jpg
-  current_position: Assistant Professor
-  current_organization:  University of Dhaka
+  current_position: Ph.D Student
+  current_organization:  University of Alberta
   email: iit.du.ac.bd
   homepage: "https://scholar.google.com/citations?user=bPzEj3IAAAAJ&hl=en"
   number_educ: 2
@@ -61,8 +61,8 @@
 
 - name: Rayhanul Islam
   photo: rayhanul-Islam.jpg
-  current_position: Lecturer
-  current_organization: University of Dhaka
+  current_position: Ph.D Student
+  current_organization: Iowa State University
   email: iit.du.ac.bd
   homepage: "https://scholar.google.com/citations?user=pO82RB8AAAAJ&hl=en"
   number_educ: 2
@@ -123,8 +123,8 @@
   
 - name: Shanto Rahman
   photo: shanto-rahaman.jpg
-  current_position: Lecturer
-  current_organization: Bangladesh University of Professionals
+  current_position: Ph.D Student
+  current_organization: University of Texas at Austin
   email: iit.du.ac.bd
   homepage: "https://scholar.google.com/citations?user=MqLwWg0AAAAJ&hl=en"
   number_educ: 2
@@ -157,8 +157,8 @@
 
 - name: Md. Shafiuzzaman (Hira)
   photo: md-shafiuzzaman-hira.jpg
-  current_position: Assistant Professor
-  current_organization: Jashore University of Science and Technology
+  current_position: Ph.D Student
+  current_organization: University of California, Santa Barbara
   email: iit.du.ac.bd
   homepage: "https://scholar.google.com/citations?hl=en&user=vGNOv60AAAAJ"
   number_educ: 2
@@ -180,7 +180,7 @@
   
 - name: Muksitul M Tanim Hasan
   photo: muksitul-m-tanim-hasan.jpg
-  current_position: Business Analyst
+  current_position: Head Of Marketing
   current_organization: Simec System Ltd.
   email: iit.du.ac.bd
   homepage: "https://bd.linkedin.com/in/tanimhasaniitdu"
@@ -190,8 +190,8 @@
   
 - name: Moshiur Moshi
   photo: moshiur-moshi.jpg
-  current_position: Software Engineer
-  current_organization: Cefalo
+  current_position: Full Stack Software Engineer
+  current_organization: Agoda, Thailand
   email: iit.du.ac.bd
   homepage: "https://bd.linkedin.com/in/mosh2i"
   number_educ: 1
@@ -200,7 +200,7 @@
 
 - name: Abdus Satter
   photo: abdus-satter.jpg
-  current_position: Lecturer
+  current_position: Assistant Professor
   current_organization: University of Dhaka
   email: iit.du.ac.bd
   homepage: "https://scholar.google.com/citations?user=8v8uaDAAAAAJ&hl=en&oi=sra"
@@ -212,7 +212,7 @@
 - name: Afrina Khatun
   photo: afrina-khatun.jpg
   current_position: Lecturer
-  current_organization: BRAC University
+  current_organization: Bangladesh University of Professionals
   email: iit.du.ac.bd
   homepage: "https://scholar.google.com/citations?user=YVK8-ScAAAAJ&hl=en"
   number_educ: 2
@@ -221,7 +221,7 @@
 
 - name: Md. Masudur Rahman
   photo: md-masudur-rahman.jpg
-  current_position: Lecture 
+  current_position: Lecture (on Study Leave)
   current_organization: Ahsanullah University of Science and Technology
   email: iit.du.ac.bd
   homepage: "https://scholar.google.com/citations?user=g1l8PKIAAAAJ&hl=en"
@@ -254,7 +254,7 @@
  
 - name: Kishan Kumar Ganguly
   photo: kishan-kumar-ganguly.jpg
-  current_position: Lecturer
+  current_position: Assistant Professor
   current_organization: University of Dhaka
   email: iit.du.ac.bd
   homepage: "https://scholar.google.com/citations?user=kazBuh8AAAAJ&hl=en"
@@ -265,7 +265,7 @@
   
 - name: Dipok Chandra Das
   photo: dipok-chandra-das.jpg
-  current_position: Lecturer
+  current_position: Assistant Professor
   current_organization: Noakhali Science and Technology University
   email: iit.du.ac.bd
   homepage: "https://www.researchgate.net/profile/Dipok_Chandra_Das"
@@ -299,9 +299,9 @@
 
 - name: Md Rakib Hossain (Misu)
   photo: md-rakib-hossain-misu.jpg
-  current_position: Senior Lecturer
-  current_organization: University of Liberal Arts Bangladesh
-  email: iit.du.ac.bd
+  current_position: Ph.D Student
+  current_organization: University of California Irvine
+  email: bsse0516@iit.du.ac.bd
   homepage: "https://mrhmisu.github.io/"
   number_educ: 3
   education1: MSc University College London (UCL)
@@ -330,7 +330,7 @@
 
 - name: Fazle Mohammed Tawsif 
   photo: fazle-mohammed-tawsif.jpeg
-  current_position: Lecturer 
+  current_position: Assistant Professor 
   current_organization: Shahjalal University of Science and Technology
   email: tawsif93@gmail.com
   homepage: https://www.linkedin.com/in/tawsif93/
@@ -358,6 +358,8 @@
 
 - name: Fatiul Huq Sujoy 
   photo: fatiul-huq-sujoy.jpeg
+  current_position: Ph.D Student
+  current_organization: University of California Irvine
   email: bsse0732@iit.du.ac.bd
   homepage: https://scholar.google.com/citations?user=J4GjvRUAAAAJ&hl=en&fbclid=IwAR25I6UoIVLjJaQFlpYidDwEVsIMBzURy1qUsmCtyocyjHo0HH8afDjCelo
   number_educ: 2
@@ -375,7 +377,7 @@
   education2: BSc University of Dhaka
 
 - name: Fazle Rabbi
-  photo: razle-rabbi.jpeg
+  photo: fazle-rabbi.jpeg
   current_position: Software Engineer
   current_organization: Samsung R&D Institute Bangladesh
   email: bsse0725@iit.du.ac.bd
@@ -385,7 +387,7 @@
   education2: BSc University of Dhaka
 
 - name: Toukir Ahammed 
-  photo: toukir-ahammed.jpeg
+  photo: toukir-ahammed.jpg
   current_position: MSSE Student
   current_organization: IIT, University of Dhaka
   email: bsse0806@iit.du.ac.bd
