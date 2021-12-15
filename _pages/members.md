@@ -10,7 +10,7 @@ permalink: /members/
 <br>
 <div class="row">
   <div class="col-sm-3 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/group-members/current_members/Kazi_Muheymin_Us_Sakib.jpg" class="img-responsive" width="80%" style="float: center" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/group-members/current_members/kazi-sakib.png" class="img-responsive" width="80%" style="float: center" />
   <br>
   <h4><a href="http://www.iit.du.ac.bd/about_iit/individual_teacher/47">Dr. Kazi Muheymin-Us-Sakib</a></h4>
   Professor<br>
@@ -24,7 +24,7 @@ permalink: /members/
 His research interest broadly lies in software engineering and its various aspects, for example, Adaptive and Distributed System,  Cloud Computing, Software Testing, Software Architecture & Design, Requirement Analysis, Project Management, Code Smell & Refactoring, Code Search and Code Clone. 
 His work has been published in major and premier conferences & journals in the area of software engineering such as ICSE, ICSME, APSEC, ENASE, SANER attracting substantial interest from the software engineering research community.
 His research work and projects have been funded by <a href="https://ictd.gov.bd/" target="_blank">ICT Division Bangladesh </a>, <a href="https://ptd.gov.bd/" target="_blank"> Ministry of Posts, Telecommunications and Information Technology, Bangladesh </a>, <a href="http://www.ugc.gov.bd/" target="_blank"> University Grant Commission (UGC) </a> and, <a href="https://www.bdren.net.bd/" target="_blank"> Bangladesh Research and Education Network (BdREN)</a>. 
-Former students of his reearch group have obtained Ph.D. position at Imperial College London, Carnegie Mellon University (CMU),  NC State University, University at Buffalo (SUNY), College of William and Mary, University of Alberta, and Concordia University. Besides, his graduated student got employment in high-tech industries like Amazon, Microsoft and, secured faculty position in many prestigious and renowned public and private universities in Bangladesh, for instance, University of Dhaka (DU), Shahjalal University of Science and Technology (SUST), Bangladesh University of Professionals (BUP), Islamic University of Technology (IUT), BRAC University, Noakhali Science and Technology University (NSTU), University of Barishal, Jashore University of Science and Technology (JUST).</p> </div>
+Former students of his reearch group have obtained Ph.D. position at Imperial College London, Carnegie Mellon University (CMU), University of Texas at Austin, NC State University, University at Buffalo (SUNY), College of William and Mary, University of Alberta, Concordia University, Iowa State University, University of California Santa Barbara and University of California Irvine. Besides, his graduated student got employment in high-tech industries like Amazon, Microsoft and, secured faculty position in many prestigious and renowned public and private universities in Bangladesh, for instance, University of Dhaka (DU), Shahjalal University of Science and Technology (SUST), Bangladesh University of Professionals (BUP), Islamic University of Technology (IUT), BRAC University, Noakhali Science and Technology University (NSTU), University of Barishal, Jashore University of Science and Technology (JUST).</p> </div>
 </div>
 
 
