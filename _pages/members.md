@@ -12,11 +12,14 @@ permalink: /members/
   <div class="col-sm-3 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/group-members/current_members/kazi-sakib.png" class="img-responsive" width="80%" style="float: center" />
   <br>
-  <h4><a href="http://www.iit.du.ac.bd/about_iit/individual_teacher/47">Dr. Kazi Muheymin-Us-Sakib</a></h4>
+  <h4><a href="http://www.iit.du.ac.bd/about_iit/individual_teacher/47" target="_blank">Dr. Kazi Muheymin-Us-Sakib</a></h4>
   Professor<br>
   University of Dhaka<br>
   <i><sakib@iit.du.ac.bd></i><br>
-  BSc(DU), MSc(DU) and PhD(RMIT)
+  BSc(DU), MSc(DU), PhD(RMIT)<br>
+  <a href="https://scholar.google.com/citations?user=G88J0-EAAAAJ&hl=en" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logo/scholar.png" width="40px" height="40x"></a>
+  <a href="http://dblp.uni-trier.de/pers/hd/s/Sakib:Kazi" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logo/dblp.png" width="40px" height="40x"></a>
+  <a href="http://www.researchgate.net/profile/Kazi_Sakib" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/logo/researchgate.png" width="40px" height="40x"></a>
   </div>
   <div class="col-sm-9"> 
   <p align="justify">
