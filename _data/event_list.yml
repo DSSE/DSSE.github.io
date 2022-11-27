@@ -44,11 +44,31 @@
   doi:
   code_link:
 
+##2020###
+
+#Webinar
+- title: "Webinar on the Productivity of Remotely Working IT Professionals during COVID-19"
+  authors: |
+    Speakers: Kishan Kumar Ganguly, Moumita Asad, Toukir Ahammed <br>
+    Session Chair: Kazi Muyehmin-Us-Sakib
+  booktitle: "DSSE Research Group is going to organize a webinar on 'Productivity of Remotely Working IT Professionals during COVID-19'"
+  year: 2020
+  type_id: webinar
+  type: webinar
+  register_link: 
+  detail_page: '/2020-07-05-webinar-onproductivity/'
+  pdf:
+  url: "#"
+  doi:
+  code_link:
+
+##2019###
+
 #Workshop
 - title: "Workshop on DevOps in Bangladesh 2019"
   authors: "Instructors: Mohammad Mizanur Rahman (Brainstation-23), Syedur Rahman (The Jaxara It Ltd.), Ratul Basak (Secure Link Services Ltd.) and Bazlur Rahman Rokon (bKash Limited)"
   booktitle: "Offline & Online Workshop | Streaming Partner - Bangladesh Research and Education Network (BdREN), Secure Link Services Ltd."
-  year: 2021
+  year: 2019
   type_id: workshop
   type: Workshop
   register_link: 

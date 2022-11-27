@@ -50,3 +50,7 @@
 #16  
 - broad_domain_name: Technical Report
   domain_id: technical_report
+
+#17
+- broad_domain_name: Human-Centric Studies
+  domain_id: human_centric_studies

@@ -1,10 +1,62 @@
+###2022###
+#Conference
+- title: "Can Female Underrepresentation in Information Technology Be Solved Through an Awareness-Based Approach?"
+  authors: Noshin Tahsin, Nazmus Sakib Ahmed, Moumita Asad, Kazi Sakib
+  booktitle: "in proceeding of the 3rd International Workshop on Gender Equality, Diversity, and Inclusion in Software Engineering, co-located with International Conference on Software Engineering, pp. 1-5"
+  year: 2022
+  domain_id: human_centric_studies
+  type: Conference
+  pdf: https://www.researchgate.net/publication/362961599_Can_Female_Underrepresentation_in_Information_Technology_Be_Solved_Through_an_Awareness-Based_Approach
+  url: 
+  doi: 
+  code_link:
+
+#Conf
+- title: "An Empirical Study on the Occurrences of Code Smells in Open Source and Industrial Projects"
+  authors: Md Masudur Rahman, Abdus Satter, Md Mahbubul Alam Joarder, Kazi Sakib
+  booktitle: "in proceeding of the 16th International Symposium on Empirical Software Engineering and Measurement, pp. 289-294"
+  year: 2022
+  domain_id: code_smell_and_refactoring
+  type: Conference
+  pdf: 
+  url:
+  doi: https://doi.org/10.1145/3544902.3546634
+  code_link:
+
+
+###2021###
+#Journal
+- title: "Combined Similarity Based Automated Program Repair Approaches for Expression Level Bugs"
+  authors: Moumita Asad, Kishan Kumar Ganguly, Kazi Sakib
+  booktitle: "Communications in Computer and Information Science, vol 1375. Springer, pp. 311–335"
+  year: 2021
+  domain_id: program_repair
+  type: Journal
+  pdf: ""
+  url: "https:/doi.org/10.1007/978-3-030-70006-5_13"
+  doi: "10.1007/978-3-030-70006-5_13"
+  code_link:
+  
+#Conf
+- title: "Understanding the Relationship between Missing Link Community Smell and Fix-inducing Changes"
+  authors: Toukir Ahammed, Moumita Asad, Kazi Sakib
+  booktitle: "in proceeding of the 16th International Conference on Evaluation of Novel Approaches to Software Engineering, pp. 469-475"
+  year: 2021
+  domain_id: software_project_management
+  type: Conference
+  pdf: "https://pdfs.semanticscholar.org/eb24/99b92d17d7354ad2a99261745013c99c1286.pdf"
+  url: "https:/doi.org/10.5220/0010500604690475"
+  doi: "10.5220/0010500604690475"
+  code_link:
+
+
 ###2020###
 #Arxiv
 - title: "Impact on the Productivity of Remotely Working IT Professionals of Bangladesh during the Coronavirus Disease 2019"
   authors: Kishan Kumar Ganguly, Noshin Tahsin, Mridha Md Fuad, Toukir Ahammed, Moumita Asad, Fatiul Huq Sujoy, ATM Rabbi, Kazi Sakib
   booktitle: "arXiv preprint arXiv:2008.11636"
   year: 2020
-  domain_id: technical_report
+  domain_id: human_centric_studies
   type: Arxiv
   pdf: "https://arxiv.org/pdf/2008.11636"
   url: "#"
@@ -16,7 +68,7 @@
   authors: Amit Seal Ami, Asif Imran, Alim Ul Gias, Kazi Sakib
   booktitle: "arXiv preprint arXiv:2008.07450"
   year: 2020
-  domain_id: technical_report
+  domain_id: human_centric_studies
   type: Arxiv
   pdf: "https://arxiv.org/pdf/2008.07450"
   url: "#"
@@ -105,6 +157,17 @@
 
 
 ###2019###
+#Conf
+- title: "GodExpo: an automated god structure detection tool for Golang"
+  authors:  Rafed Muhammad Yasir, Moumita Asad, Asadullah Hill Galib, Kishan Kumar Ganguly, Md Saeed Siddik 
+  booktitle: "In the proceedings of 3rd International Workshop on Refactoring, co-located with International Conference on Software Engineering"
+  year: 2019
+  domain_id: code_smell_and_refactoring
+  type: Conference
+  pdf: "https://galib19.github.io/files/GodExpo_IWOR_2019.pdf"
+  url: "#"
+  doi: "https://ieeexplore.ieee.org/document/8844410/"
+  code_link:  "https://github.com/rafed/godexpo/"
 
 #Journal
 - title: "Prioritising test cases by collaborating artifacts of software development life cycle"
@@ -132,7 +195,7 @@
 
 #Conf-32
 - title: "Impact Analysis of Syntactic and Semantic Similarities on Patch Prioritization in Automated Program Repair"
-  authors:  M. Asad, K. Ganguly and K. Sakib
+  authors:  Moumita Asad, Kishan Kumar Ganguly, Kazi Sakib
   booktitle: "In proceedings of the 35th IEEE International Conference on Software Maintenance and Evolution (ICSME 19) 2019, Cleveland, Ohio, USA, pp:328-332."
   year: 2019
   domain_id: program_repair

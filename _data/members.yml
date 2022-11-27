@@ -349,8 +349,8 @@
 - name: Moumita Asad 
   photo: moumita-asad.jpeg
   current_position: Lecturer
-  current_organization: Independent University, Bangladesh (IUB)
-  email: bsse0731@iit.du.ac.bd
+  current_organization: University of Dhaka
+  email: moumita@iit.du.ac.bd
   homepage: https://scholar.google.com/citations?user=u-KPXtIAAAAJ&hl=en&fbclid=IwAR1ozJsOtMhAR8k-0aCgzxDNm04qi4kh82uZvBuAgYdmszQfSIgGAcjf_ug
   number_educ: 2
   education1: MSc University of Dhaka
@@ -368,8 +368,8 @@
 
 - name: Rafed Muhammad Yasir 
   photo: rafed-muhammad-yasir.png
-  current_position: Associate Software Engineer
-  current_organization: Brain Station 23 Limited
+  current_position: DevOps Engineer
+  current_organization: Brainstation-23 Ltd
   email: bsse0733@iit.du.ac.bd
   homepage: https://rafed.github.io/
   number_educ: 2
